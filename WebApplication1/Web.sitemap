@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Home.aspx" title="Home"  description="Home Page">
+    <siteMapNode url="~/Goals.aspx" title="Goals"  description="Goals, Vision and Mission Statement" />
+    <siteMapNode url="~/Achievements.aspx" title="Achievements"  description="Awards and Achievements" />
+    <siteMapNode url="~/Prior.aspx" title="Prior"  description="Prior Work Projects" />
+    <siteMapNode url="~/Upcoming.aspx" title="Upcoming"  description="Upcoming Designs" />
+  </siteMapNode>
+</siteMap>
